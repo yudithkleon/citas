@@ -1,0 +1,31 @@
+.formulario {
+  text-align: center;
+  padding: 30px;
+ justify-content: center;
+}
+
+.usuario {
+  font-size: 30px;
+}
+#inputname {
+  font-size: 20px;
+}
+#inputlogin {
+  font-size: 20px;
+}
+#btnIngresar {
+  font-size: 20px;
+  padding: 10px;
+  margin: 20px;
+  background-color: blue;
+  color: white;
+  border-radius: 20px;
+}
+#btnRegistrar {
+  font-size: 20px;
+  padding: 10px;
+  margin: 20px;
+  background-color: blue;
+  color: white;
+  border-radius: 20px;
+}
